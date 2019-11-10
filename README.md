@@ -1,3 +1,1 @@
-# tutorial-network
-
-tutorial
+Simple Hyperleder Composer Blockchain solution
